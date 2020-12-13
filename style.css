@@ -1,0 +1,40 @@
+
+body{font-family: 'Russo One', sans-serif;}
+#tom{
+	height: 200px ; 
+	width: 200px ; 
+	object-fit: scale-down; ; 
+	border: 2px solid purple ; 
+	border-radius: 50% ; 
+	box-shadow: 4px 4px 25px rgba(000,000,000,70%)
+
+}
+
+.textblue{color: purple	}
+
+.titre{text-align: center;
+color: black}
+
+.card{ 
+	border: 1px solid black; 
+	width: 50% ; 
+	text-align: center; 
+	margin: 10px auto 10px auto ; 
+	background: #F7E3DF ;
+	padding: 30px 20px ;
+}
+
+.troismots{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+
+}
+
+.troismots p {
+	margin : 0 10px;
+	color: purple	;
+	
+
+}
+
